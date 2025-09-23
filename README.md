@@ -1,2 +1,2 @@
 # CLT-Python
-Collage Level Tutorial - Python
+Core Level Tutorial - Python
