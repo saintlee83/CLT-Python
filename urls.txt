@@ -1,0 +1,209 @@
+
+### Python Interactive Shell
+- https://dsaint31.tistory.com/505
+  * reference: Expression vs. Statement (https://dsaint31.tistory.com/entry/Python-Expression-vs-Statement)
+  * reference: Console, Terminal, and Shell (https://dsaint31.me/mkdocs_site/OS/console_terminal_shell_kernel/#shell)
+  * reference: IPython shell에서 shell cmds 사용하기 (https://ds31x.tistory.com/101)
+  * reference: IPython 공식 사이트 (https://ipython.org/)
+  * reference: bpython (https://bpython-interpreter.org/)
+  * reference: Jupyter notebook over colab (https://dsaint31.me/mkdocs_site/CE/colab/hw_spec/#jupyter-notebook)
+
+### Keywords
+- https://dsaint31.tistory.com/510
+  * reference: Python keyword 문서 (https://docs.python.org/ko/3/library/keyword.html)
+  * reference: keywords and soft keywords gist (https://gist.github.com/dsaint31x/c3258cf0609ce80810ee5194c46e502c)
+
+### Literal
+- https://dsaint31.tistory.com/462
+  * reference: Keyword (https://dsaint31.tistory.com/510)
+
+### Statement and Expression
+- https://dsaint31.tistory.com/514
+  * reference: Function Call (https://dsaint31.tistory.com/507)
+  * reference: Compound Statement (https://ds31x.tistory.com/493)
+  * reference: Keyword (https://dsaint31.tistory.com/510)
+  * reference: Literal (https://dsaint31.tistory.com/462)
+  * reference: expression vs statements gist (https://gist.github.com/dsaint31x/31f032e2a8f7aedabf924f9773abae5f)
+  * reference: eval, exec, compile 차이 (https://stackoverflow.com/questions/2220699/whats-the-difference-between-eval-exec-and-compile)
+  * reference: Compound statements 공식 문서 (https://docs.python.org/ko/3/reference/compound_stmts.html)
+
+### Function Call
+- https://dsaint31.tistory.com/507
+  * reference: namespace, frame, and context (https://dsaint31.tistory.com/508)
+  * reference: Function Definition, Call and Arguments (https://dsaint31.tistory.com/506)
+
+### Namespace, Frame, and Context
+- https://dsaint31.tistory.com/508
+  * reference: Function in Programming (https://dsaint31.me/mkdocs_site/CE/ch05/ch05_02_01_function/#function-call-stack)
+  * reference: Python Scopes and Namespaces (https://docs.python.org/ko/3/tutorial/classes.html#python-scopes-and-namespaces)
+  * reference: Python Scopes and Namespaces (English) (https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces)
+
+### Variable (and Object)
+- https://dsaint31.tistory.com/517
+  * reference: Object 개념 (https://dsaint31.me/mkdocs_site/python/oop/oop_0_01_Object/)
+  * reference: Strong Typing (https://dsaint31.tistory.com/518)
+  * reference: Naming Convention (http://ds31x.blogspot.com/2023/07/etc-naming-convention.html)
+  * reference: Keyword (https://dsaint31.tistory.com/510)
+  * reference: Python Tutor (https://pythontutor.com/visualize.html)
+  * reference: Data Type Summary (https://dsaint31.tistory.com/515)
+  * reference: Literal (https://dsaint31.tistory.com/462)
+
+### Strong Typing
+- https://dsaint31.tistory.com/518
+  * reference: Statically vs Dynamically Typed Languages (https://medium.com/android-news/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b)
+  * reference: Dynamic Language vs. Static Language (https://dsaint31.tistory.com/511)
+  * reference: Object 개념 (https://dsaint31.me/mkdocs_site/python/oop/oop_0_01_Object/#object)
+
+### Assignment
+- https://dsaint31.tistory.com/531?authuser=0
+  * reference: https://ds31x.tistory.com/194
+  * reference: https://dsaint31.tistory.com/511
+  * reference: namespace, frame, and context (https://dsaint31.tistory.com/entry/Basic-namespace-frame-and-context)
+
+### Function
+- https://dsaint31.tistory.com/506?authuser=0
+
+### Variable and Comment
+- https://dsaint31.tistory.com/517
+  * (Variable 섹션 참조)
+- https://ds31x.blogspot.com/2023/07/etc-naming-convention.html
+
+### Input
+- https://ds31x.tistory.com/325?authuser=0
+
+### Eval Function
+- https://dsaint31.tistory.com/514
+  * (Statement and Expression 섹션 참조)
+
+### Loop Structure (for statement)
+- https://dsaint31.tistory.com/573
+  * reference: Iterable and Iterator, plus Generator (https://dsaint31.tistory.com/501)
+  * reference: Compound Statement (https://ds31x.tistory.com/493)
+  * reference: else: break checker (https://ds31x.tistory.com/100)
+  * reference: for statement example gist (https://gist.github.com/dsaint31x/f28b8b3c59483abdb3119aa31ec44d01)
+  * reference: while statement, break and continue (https://ds31x.tistory.com/56)
+  * reference: Control Structure and Control Flow (https://ds31x.tistory.com/124)
+
+### Iterable and Iterator
+- https://dsaint31.tistory.com/501
+  * reference: range and enumerate (https://dsaint31.tistory.com/502)
+  * reference: special methods and operator overloading (https://ds31x.tistory.com/35)
+  * reference: List Comprehension (https://dsaint31.tistory.com/500)
+
+### Package Manager
+- https://dsaint31.tistory.com/534
+  * reference: Package Manager Summary (https://ds31x.tistory.com/335)
+  * reference: PyPI (https://pypi.org/)
+  * reference: Installing Packages 공식 문서 (https://packaging.python.org/en/latest/tutorials/installing-packages/)
+  * reference: pip 사용법 (https://ds31x.tistory.com/16)
+  * reference: conda : Anaconda and Miniconda (https://ds31x.blogspot.com/2023/07/env-conda-anaconda-and-miniconda.html)
+  * reference: conda 사용법 (https://ds31x.tistory.com/376)
+
+### Type and Operators
+- https://dsaint31.tistory.com/515?authuser=0
+  * reference: Sequence 수열 (https://dsaint31.tistory.com/569#Sequence)
+  * reference: mutable and immutable (https://ds31x.tistory.com/199)
+  * reference: 수(Number)의 종류 (https://dsaint31.tistory.com/336)
+  * reference: 양의 정수 표현 (https://dsaint31.me/mkdocs_site/CE/ch01/positive_number/#2-for-human)
+  * reference: IEEE754 Real Number (https://dsaint31.me/mkdocs_site/CE/ch01/real_number/)
+  * reference: Float 표현하기 IEEE754 (https://dsaint31.tistory.com/429)
+  * reference: Round-off Error vs. Truncation Error (https://bme808.blogspot.com/2022/11/ss-round-off-error-vs-truncation-error.html)
+  * reference: Truthiness (https://ds31x.blogspot.com/2023/07/python-truthiness.html)
+  * reference: Boolean Algebra (https://dsaint31.me/mkdocs_site/CE/ch01/ch01_13_boolean_algebra)
+  * reference: String 문자열 (https://ds31x.tistory.com/125)
+  * reference: list summary (https://ds31x.tistory.com/34)
+  * reference: dictionary basic (https://ds31x.tistory.com/31)
+  * reference: set and frozenset (https://ds31x.tistory.com/33)
+  * reference: Sequence 수열 (https://dsaint31.tistory.com/569)
+  * reference: bytes and bytearray (https://ds31x.tistory.com/182)
+  * reference: Primitive Data Type (https://dsaint31.tistory.com/456)
+  * reference: Type Annotation (https://ds31x.tistory.com/73)
+  * reference: Dynamic Language vs. Static Language (https://dsaint31.tistory.com/511)
+- https://ds31x.tistory.com/54?authuser=0
+- https://dsaint31.tistory.com/516?authuser=0
+- https://ds31x.tistory.com/407?authuser=0
+- https://dsaint31.tistory.com/247?authuser=0
+- https://dsaint31.tistory.com/429?authuser=0
+
+### Print
+- https://ds31x.tistory.com/410
+  * reference: Stream이란 (https://ds31x.tistory.com/341)
+  * reference: Standard I/O Library (https://dsaint31.me/mkdocs_site/CE/ch10/ce10_2_04_stdio/#standard-io-library_1)
+  * reference: Python에서 string formatting (https://ds31x.tistory.com/329)
+  * reference: logging (https://ds31x.tistory.com/150)
+
+### List and Str
+- https://ds31x.tistory.com/34?authuser=0
+  * reference: List's methods (https://ds31x.tistory.com/47)
+  * reference: list summary gist (https://gist.github.com/dsaint31x/6794486c7fca7ab0632098c1989d0af8)
+  * reference: collections.abc (https://ds31x.tistory.com/241)
+  * reference: Tensor 간의 변환 (https://ds31x.tistory.com/214)
+- https://ds31x.tistory.com/125?authuser=0
+  * reference: Data Type Summary (https://dsaint31.tistory.com/515#----%--String%--Type%--%-A%--str)
+  * reference: Python에서 string formatting (https://ds31x.tistory.com/329)
+  * reference: f-String (https://dsaint31.tistory.com/532)
+  * reference: Basic Methods of String (https://dsaint31.tistory.com/533)
+  * reference: Str Overloaded Operators (https://dsaint31.tistory.com/547)
+  * reference: Regular Expression 표현식 요약 (https://ds31x.tistory.com/21)
+  * reference: Regular Expression re 요약 (https://dsaint31.tistory.com/548)
+
+### List + Str Methods
+- https://ds31x.tistory.com/47?authuser=0
+  * reference: list summary (https://ds31x.tistory.com/34)
+  * reference: list의 sort() 메서드 와 sorted() 내장 함수 (https://ds31x.tistory.com/495)
+  * reference: list methods gist (https://gist.github.com/dsaint31x/6deddaa3d94db432b88b9c4c4a0d3524)
+- https://dsaint31.tistory.com/533?authuser=0
+  * reference: Token and Tokenizer (https://ds31x.tistory.com/140)
+  * reference: String 문자열 (https://ds31x.tistory.com/125)
+
+### Escape Sequence
+- https://ds31x.tistory.com/21?authuser=0
+
+### Boolean Op, Relational Op, Membership Op / If Statement
+- https://ds31x.tistory.com/54
+- https://ds31x.tistory.com/55
+
+### Summary of Str
+- https://blog.naver.com/dsaint31/223826029991
+
+### Summary of Python Reference
+- https://ds31x.tistory.com/page/Python-Python-%EC%A0%95%EB%A6%AC?authuser=0
+
+### Collections
+- https://ds31x.tistory.com/122?authuser=0
+
+### Scope LEGB
+- https://ds31x.tistory.com/45?authuser=0
+
+### Function Parameter
+- https://ds31x.tistory.com/201?authuser=0
+
+### Module Search Path
+- https://dsaint31.tistory.com/528?authuser=0
+
+### OOP
+- https://ds31x.tistory.com/326
+  * reference: OOP 개념 (https://dsaint31.me/mkdocs_site/python/oop/oop_0_00_OOP/)
+  * reference: class 만들기 (https://ds31x.tistory.com/240)
+  * reference: instance methods, class methods, and static methods (https://ds31x.tistory.com/66)
+  * reference: overloading, overriding, and special methods (https://ds31x.tistory.com/36)
+  * reference: Python class attribute (https://dsaint31.me/mkdocs_site/python/oop/oop_3_01_python_class/#class-attribute)
+  * reference: Python encapsulation (https://dsaint31.me/mkdocs_site/python/oop/oop_3_02_python_encapsulation/)
+  * reference: Python 정리 (https://ds31x.tistory.com/pages/Python-Python-%EC%A0%95%EB%A6%AC)
+
+### Dict
+- https://ds31x.tistory.com/31
+  * reference: Hashing (https://ds31x.tistory.com/248)
+  * reference: collection.OrderedDict (https://ds31x.tistory.com/412)
+  * reference: Dictionary's methods (https://ds31x.tistory.com/30)
+  * reference: Data Type Summary (https://dsaint31.tistory.com/515)
+  * reference: collections.abc (https://ds31x.tistory.com/241)
+  * reference: Collections (https://ds31x.tistory.com/122)
+- https://ds31x.tistory.com/30
+  * reference: Iterable and Iterator, plus Generator (https://dsaint31.tistory.com/entry/Python-Iterable-and-Iterator-puls-Generator)
+  * reference: dictionary basic (https://ds31x.tistory.com/31)
+  * reference: Collections (https://ds31x.tistory.com/122)
+
+### Exception
+- https://ds31x.tistory.com/351?authuser=0
+- https://dsaint31.tistory.com/526?authuser=0
