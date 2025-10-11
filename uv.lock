@@ -71,10 +71,16 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "ipykernel" },
+    { name = "mermaid-magic" },
+    { name = "mermaid-python" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "ipykernel", specifier = ">=6.30.1" }]
+requires-dist = [
+    { name = "ipykernel", specifier = ">=6.30.1" },
+    { name = "mermaid-magic", specifier = ">=0.1.4" },
+    { name = "mermaid-python", specifier = ">=0.1" },
+]
 
 [[package]]
 name = "colorama"
@@ -238,6 +244,30 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/99/5b/a36a337438a14116b16480db471ad061c36c3694df7c2084a0da7ba538b7/matplotlib_inline-0.1.7.tar.gz", hash = "sha256:8423b23ec666be3d16e16b60bdd8ac4e86e840ebd1dd11a30b9f117f2fa0ab90", size = 8159, upload-time = "2024-04-15T13:44:44.803Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/8f/8e/9ad090d3553c280a8060fbf6e24dc1c0c29704ee7d1c372f0c174aa59285/matplotlib_inline-0.1.7-py3-none-any.whl", hash = "sha256:df192d39a4ff8f21b1895d72e6a13f5fcc5099f00fa84384e0ea28c2cc0653ca", size = 9899, upload-time = "2024-04-15T13:44:43.265Z" },
+]
+
+[[package]]
+name = "mermaid-magic"
+version = "0.1.4"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "ipython" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/64/cf/01ef44a12e769c58405e0f56c2b74498a05024655bb5a33e77960f00433e/mermaid_magic-0.1.4.tar.gz", hash = "sha256:f65b3095312fb42aa6d064be3e6f642df62da0cd1fd7024de57389627b308513", size = 3827, upload-time = "2025-05-04T04:04:56.404Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/1c/d8/006d4980a8d4e8b6dcae13aae932e351d7e4c39f3eba2f4f8943981de179/mermaid_magic-0.1.4-py3-none-any.whl", hash = "sha256:43ad15cdf7241ddb19d6349953fabe067e0458866a972d9b0605bd78437a2b25", size = 3855, upload-time = "2025-05-04T04:04:53.993Z" },
+]
+
+[[package]]
+name = "mermaid-python"
+version = "0.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "ipython" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/c4/db/2ec1a0ce2a8d7a1b5be13ce8f8daec54a9866529151b5a904c5e2c634a12/mermaid-python-0.1.tar.gz", hash = "sha256:0d9e4d90d7487453760bdb09b7722a6c5a333c6b76479171df3abc6311d53830", size = 2831, upload-time = "2023-04-28T06:02:24.261Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/46/0b/dc6f1d684ab5d9c9061777afa5f428d4d7b8d91f660f7da50395fecc2b5b/mermaid_python-0.1-py3-none-any.whl", hash = "sha256:8c92ae677a44d4e1cf4e6abbdde29046c56da647dfcb4e910eb3f9230847c16d", size = 3209, upload-time = "2023-04-28T06:02:16.575Z" },
 ]
 
 [[package]]
