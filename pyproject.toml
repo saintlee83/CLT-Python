@@ -8,4 +8,5 @@ dependencies = [
     "ipykernel>=6.30.1",
     "mermaid-magic>=0.1.4",
     "mermaid-python>=0.1",
+    "pandas>=2.3.3",
 ]
